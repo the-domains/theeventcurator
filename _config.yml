@@ -1,0 +1,14 @@
+layout_spectrum: 0.7950041
+color:
+  saturation: 0.216742
+  lightness: 0.6737008
+  brandStrength: 0.1283566
+  brandColors:
+    - '#000000'
+    - '#A9A2B2'
+    - '#63647A'
+    - '#3C4858'
+    - '#363034'
+  rhythmicContrast: 0.4474705
+typography_spectrum: 0.0589302
+name: TheEventCurator
