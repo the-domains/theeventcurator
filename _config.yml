@@ -1,4 +1,4 @@
-layout_spectrum: 0.7950041
+typography_spectrum: 0.0589302
 color:
   saturation: 0.216742
   lightness: 0.6737008
@@ -10,8 +10,9 @@ color:
     - '#3C4858'
     - '#363034'
   rhythmicContrast: 0.4474705
-typography_spectrum: 0.0589302
-name: TheEventCurator
+layout_spectrum: 0.7950041
 author:
   name: Ian Feigelman
   email: ian@theeventcurator.com
+name: TheEventCurator
+title: Putting It Together
