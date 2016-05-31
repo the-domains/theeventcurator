@@ -1,18 +1,30 @@
-typography_spectrum: 0.0589302
+author:
+  name: Ian Feigelman
+  email: ian@theeventcurator.com
+title: Putting It Together
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.216742
-  lightness: 0.6737008
-  brandStrength: 0.1283566
+  saturation: 0.849087
+  brandStrength: 0.7943072
+  lightness: 0.4033297
   brandColors:
     - '#000000'
     - '#A9A2B2'
     - '#63647A'
     - '#3C4858'
     - '#363034'
-  rhythmicContrast: 0.4474705
-layout_spectrum: 0.7950041
-author:
-  name: Ian Feigelman
-  email: ian@theeventcurator.com
+  rhythmicContrast: 0.7900108
+typography_spectrum: 0.3227712
+layout_spectrum: 0.9403866
 name: TheEventCurator
-title: Putting It Together
